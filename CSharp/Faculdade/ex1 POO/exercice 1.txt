@@ -1,0 +1,9 @@
+Exercício 1:
+
+Crie uma classe chamada Jogo com seguintes atributos:
+Código -  (int)
+Nome  - (string)
+Categoria – (string)
+Data de lançamento -  (DateTime)
+ 
+Instancie um objeto da classe Jogo, preencha os seus atributos e exiba em vídeo os dados.
