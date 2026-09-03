@@ -100,17 +100,4 @@ INNER JOIN Cliente c on l.CodCli = c.CodCli
 INNER JOIN ItensLocacao i on l.CodLocacao = i.CodLocacao
 INNER JOIN Midias m on i.CodMidia = m.CodMidia
  
---com subselect
-select l.CodLocacao,()
- 
 --5)Faça a soma de todos os valores unitários de todos os filmes locados para cada locação. Mostrando o numero da locação e sua somatório só JOINS
-select itl.CodLocacao, sum(m.ValorUnit) soma
-from ItensLocacao itl
-inner join Midias m on itl.CodMidia = m.CodMidia
-group by itl.CodLocacao
-
---com subselect
-select distinct itl.CodLocacao, (select sum(m.valorUnit) from Midias m
-						where m.CodMidia in (select CodMidia from ItensLocacao x
-						where x.CodLocacao = itl.codLocacao))
-from ItensLocacao itl
