@@ -94,6 +94,7 @@ where (select count(l.CodLocacao)
  
 --4)Liste para cada locação a data da locação, o nome do filme e o nome do cliente(join)
 --com join
+
 select l.CodLocacao, l.DataLoc, c.Cliente, DescMidia
 from Locacao l
 INNER JOIN Cliente c on l.CodCli = c.CodCli
