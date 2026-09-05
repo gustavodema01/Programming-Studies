@@ -1,7 +1,0 @@
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO4 - Pessoa\AtividadePOO4 - Pessoa\bin\Debug\AtividadePOO4 - Pessoa.exe.config
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO4 - Pessoa\AtividadePOO4 - Pessoa\bin\Debug\AtividadePOO4 - Pessoa.exe
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO4 - Pessoa\AtividadePOO4 - Pessoa\bin\Debug\AtividadePOO4 - Pessoa.pdb
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO4 - Pessoa\AtividadePOO4 - Pessoa\obj\Debug\AtividadePOO4 - Pessoa.csproj.AssemblyReference.cache
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO4 - Pessoa\AtividadePOO4 - Pessoa\obj\Debug\AtividadePOO4 - Pessoa.csproj.CoreCompileInputs.cache
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO4 - Pessoa\AtividadePOO4 - Pessoa\obj\Debug\AtividadePOO4 - Pessoa.exe
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO4 - Pessoa\AtividadePOO4 - Pessoa\obj\Debug\AtividadePOO4 - Pessoa.pdb
