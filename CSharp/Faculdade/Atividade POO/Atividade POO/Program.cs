@@ -8,28 +8,30 @@ namespace Atividade_POO
         {
             try
             {
+                Funcionário f = new Funcionário(); //instanciei o objeto 
                 Console.Write("Nome: "); //atribui a responsabilidade de coletar os dados fora da classe
-                string nome = Console.ReadLine(); 
+                string nome = Console.ReadLine();
+                f.Nome = nome;
 
                 Console.Write("Salário: ");
                 double salario = double.Parse(Console.ReadLine());
+                f.SalarioBase = salario;
 
                 Console.Write("Data de nascimento: ");
                 DateTime nascimento = DateTime.Parse(Console.ReadLine());
-
-                Funcionário f = new Funcionário(nome, salario, nascimento); //instanciação com os parâmetros atribuidos
-
+                f.DataNascimento = nascimento;
+                
                 Console.Write("Desconto do mês: ");
                 double desconto = double.Parse(Console.ReadLine());
                 double salarioDescontado = f.SalarioLiquido(desconto); //chamei o método e coloquei o parâmetro
 
                 Console.Write("Bônus do mês: ");
                 double bonus = double.Parse(Console.ReadLine());
-                double salariofinal = f.SalarioLiquido(bonus, desconto); 
+                double salariofinal = f.SalarioLiquido(desconto, bonus); 
 
                 Console.WriteLine("\nNome: " + nome +
                     "\nData de nascimento: " + nascimento +
-                    "\nSalario pós desconto" +
+                    "\nSalario pós desconto: " + salarioDescontado +
                     "\nSalário pós bônus: " + salariofinal);
             }
             catch (FormatException ex)
