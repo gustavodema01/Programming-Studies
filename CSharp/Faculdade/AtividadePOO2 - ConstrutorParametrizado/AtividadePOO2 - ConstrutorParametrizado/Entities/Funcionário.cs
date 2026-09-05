@@ -39,11 +39,9 @@ namespace Atividade_POO
             }
         }
 
-        public Funcionário(string nome, double salarioBase, DateTime dataNascimento) //construtor para as variáveis serem inciadas obrigatóriamente.
+        public Funcionário(string nome) //construtor para a variável ser inciada obrigatóriamente.
         {
             Nome = nome;
-            SalarioBase = salarioBase;
-            DataNascimento = dataNascimento;
         }
         public double SalarioLiquido(double DescontoMes) // método
         {

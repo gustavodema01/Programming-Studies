@@ -10,14 +10,15 @@ namespace Atividade_POO
             {
                 Console.Write("Nome: "); //atribui a responsabilidade de coletar os dados fora da classe
                 string nome = Console.ReadLine();
+                Funcionário f = new Funcionário(nome); //instanciação com os parâmetros atribuidos
 
                 Console.Write("Salário: ");
                 double salario = double.Parse(Console.ReadLine());
+                f.SalarioBase = salario;
 
                 Console.Write("Data de nascimento: ");
                 DateTime nascimento = DateTime.Parse(Console.ReadLine());
-
-                Funcionário f = new Funcionário(nome, salario, nascimento); //instanciação com os parâmetros atribuidos
+                f.DataNascimento = nascimento;
 
                 Console.Write("Desconto do mês: ");
                 double desconto = double.Parse(Console.ReadLine());
