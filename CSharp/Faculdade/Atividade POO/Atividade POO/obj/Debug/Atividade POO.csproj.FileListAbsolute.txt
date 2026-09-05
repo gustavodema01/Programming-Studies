@@ -1,7 +1,0 @@
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\Atividade POO\Atividade POO\bin\Debug\Atividade POO.exe.config
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\Atividade POO\Atividade POO\bin\Debug\Atividade POO.exe
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\Atividade POO\Atividade POO\bin\Debug\Atividade POO.pdb
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\Atividade POO\Atividade POO\obj\Debug\Atividade POO.csproj.AssemblyReference.cache
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\Atividade POO\Atividade POO\obj\Debug\Atividade POO.csproj.CoreCompileInputs.cache
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\Atividade POO\Atividade POO\obj\Debug\Atividade POO.exe
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\Atividade POO\Atividade POO\obj\Debug\Atividade POO.pdb
