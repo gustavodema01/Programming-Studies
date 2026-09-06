@@ -1,7 +1,0 @@
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO3 - Cadastro com lista\AtividadePOO3 - Cadastro com lista\bin\Debug\AtividadePOO3 - Cadastro com lista.exe.config
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO3 - Cadastro com lista\AtividadePOO3 - Cadastro com lista\bin\Debug\AtividadePOO3 - Cadastro com lista.exe
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO3 - Cadastro com lista\AtividadePOO3 - Cadastro com lista\bin\Debug\AtividadePOO3 - Cadastro com lista.pdb
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO3 - Cadastro com lista\AtividadePOO3 - Cadastro com lista\obj\Debug\AtividadePOO3 - Cadastro com lista.csproj.AssemblyReference.cache
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO3 - Cadastro com lista\AtividadePOO3 - Cadastro com lista\obj\Debug\AtividadePOO3 - Cadastro com lista.csproj.CoreCompileInputs.cache
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO3 - Cadastro com lista\AtividadePOO3 - Cadastro com lista\obj\Debug\AtividadePOO3 - Cadastro com lista.exe
-C:\Users\Gus\OneDrive\Desktop\Programming Studies\CSharp\Faculdade\AtividadePOO3 - Cadastro com lista\AtividadePOO3 - Cadastro com lista\obj\Debug\AtividadePOO3 - Cadastro com lista.pdb
